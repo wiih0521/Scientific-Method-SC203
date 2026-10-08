@@ -5,3 +5,7 @@
 __pycache__/
 *.pyc
 .gemini/
+
+# Personal course notes & guidelines
+Note.md
+TeacherNote.md
