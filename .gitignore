@@ -1,0 +1,7 @@
+.vs/
+.vscode/
+*.tmp
+*.log
+__pycache__/
+*.pyc
+.gemini/
